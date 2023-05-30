@@ -5,7 +5,7 @@
     "token": "MPX-FTM (EQUALIZER)",
     "tokenAddress": "0xd6070ae98b8069de6B494332d1A1a81B6179D960",
     "tokenDecimals": 18,
-    "earnedToken": "equal",
+    "earnedToken": "XpE-MPX-FTM",
     "earnedTokenAddress": "0x4AA0EaBC4B9797F1bDF58024633fC2CCcF7edD0A",
     "earnContractAddress": "0x4AA0EaBC4B9797F1bDF58024633fC2CCcF7edD0A",
     "oracle": "tokens",
@@ -15,10 +15,6 @@
     "assets": ["MPX, FTM"],
     "risks": [
       "COMPLEXITY_LOW",
-      "BATTLE_TESTED",
-      "IL_NONE",
-      "MCAP_MEDIUM",
-      "AUDIT",
       "CONTRACTS_VERIFIED"
     ],
     "strategyTypeId": "lp",
