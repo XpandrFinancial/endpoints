@@ -8,7 +8,7 @@
     "earnedToken": "XpE-MPX-FTM",
     "earnedTokenAddress": "0x4AA0EaBC4B9797F1bDF58024633fC2CCcF7edD0A",
     "earnContractAddress": "0x4AA0EaBC4B9797F1bDF58024633fC2CCcF7edD0A",
-    "oracle": "tokens",
+    "oracle": "lps",
     "oracleId": "equalizer-wftm-mpx",
     "status": "active",
     "platformId": "Equalizer",
