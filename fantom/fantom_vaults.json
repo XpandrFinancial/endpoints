@@ -21,5 +21,28 @@
     "buyTokenUrl": "https://spooky.fi/#/swap?outputCurrency=0xd6070ae98b8069de6B494332d1A1a81B6179D960",
     "network": "fantom",
     "createdAt": 63286950
+  },
+  {
+    "id": "equalizer-usdc-wftm",
+    "name": "USDC-FTM",
+    "token": "USDC-FTM (EQUALIZER)",
+    "tokenAddress": "0x7547d05dFf1DA6B4A2eBB3f0833aFE3C62ABD9a1",
+    "tokenDecimals": 18,
+    "earnedToken": "XpE-MPX-FTM",
+    "earnedTokenAddress": "0x80562e21ef455f96107f4c89689768e09d4d3158",
+    "earnContractAddress": "0x80562e21ef455f96107f4c89689768e09d4d3158",
+    "oracle": "lps",
+    "oracleId": "equalizer-usdc-wftm",
+    "status": "active",
+    "platformId": "Equalizer",
+    "assets": ["USDC, FTM"],
+    "risks": [
+      "COMPLEXITY_LOW",
+      "CONTRACTS_VERIFIED"
+    ],
+    "strategyTypeId": "lp",
+    "buyTokenUrl": "https://spooky.fi/#/swap?outputCurrency=0x7547d05dFf1DA6B4A2eBB3f0833aFE3C62ABD9a1",
+    "network": "fantom",
+    "createdAt": 63286950
   }
 ]
