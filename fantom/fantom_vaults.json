@@ -6,8 +6,8 @@
     "tokenAddress": "0xdE26e98d868FE02fFfb6DF26E638995124d3Ca13",
     "tokenDecimals": 18,
     "earnedToken": "XpE-MPX-FTM",
-    "earnedTokenAddress": "0x20e8492ec251ca176CE0131d960f9dAaC5bFA2d1",
-    "earnContractAddress": "0x20e8492ec251ca176CE0131d960f9dAaC5bFA2d1",
+    "earnedTokenAddress": "0x10DFa237a26A1Fa12884A459BAC0454b652055D4",
+    "earnContractAddress": "0x10DFa237a26A1Fa12884A459BAC0454b652055D4",
     "oracle": "lps",
     "oracleId": "equalizer-wftm-mpx",
     "status": "active",
@@ -29,8 +29,8 @@
     "tokenAddress": "0x7547d05dFf1DA6B4A2eBB3f0833aFE3C62ABD9a1",
     "tokenDecimals": 18,
     "earnedToken": "XpE-MPX-FTM",
-    "earnedTokenAddress": "0x80562e21ef455f96107f4c89689768e09d4d3158",
-    "earnContractAddress": "0x80562e21ef455f96107f4c89689768e09d4d3158",
+    "earnedTokenAddress": "0xb65D9aC2c8B92696FCff52AC9ddfe8e2658237B9",
+    "earnContractAddress": "0xb65D9aC2c8B92696FCff52AC9ddfe8e2658237B9",
     "oracle": "lps",
     "oracleId": "equalizer-usdc-wftm",
     "status": "active",
@@ -43,6 +43,29 @@
     "strategyTypeId": "lp",
     "buyTokenUrl": "https://spooky.fi/#/swap?outputCurrency=0x7547d05dFf1DA6B4A2eBB3f0833aFE3C62ABD9a1",
     "network": "fantom",
-    "createdAt": 63384505
+    "createdAt": 64307256
+  },
+  {
+    "id": "equalizer-ring-usdc",
+    "name": "RING-USDC",
+    "token": "RING-USDC (EQUALIZER)",
+    "tokenAddress": "0x7547d05dFf1DA6B4A2eBB3f0833aFE3C62ABD9a1",
+    "tokenDecimals": 18,
+    "earnedToken": "XpE-RING-USDC",
+    "earnedTokenAddress": "0xb65D9aC2c8B92696FCff52AC9ddfe8e2658237B9",
+    "earnContractAddress": "0xb65D9aC2c8B92696FCff52AC9ddfe8e2658237B9",
+    "oracle": "lps",
+    "oracleId": "equalizer-ring-usdc",
+    "status": "active",
+    "platformId": "Equalizer",
+    "assets": ["RING, USDC"],
+    "risks": [
+      "COMPLEXITY_LOW",
+      "CONTRACTS_VERIFIED"
+    ],
+    "strategyTypeId": "lp",
+    "buyTokenUrl": "https://spooky.fi/#/swap?outputCurrency=0x7547d05dFf1DA6B4A2eBB3f0833aFE3C62ABD9a1",
+    "network": "fantom",
+    "createdAt": 64355225
   }
 ]
