@@ -18,9 +18,9 @@
       "CONTRACTS_VERIFIED"
     ],
     "strategyTypeId": "lp",
-    "buyTokenUrl": "https://spooky.fi/#/swap?outputCurrency=0xd6070ae98b8069de6B494332d1A1a81B6179D960",
+    "buyTokenUrl": "https://https://equalizer.exchange/swap",
     "network": "fantom",
-    "createdAt": 63286950
+    "createdAt": 64307256
   },
   {
     "id": "equalizer-usdc-wftm",
@@ -41,9 +41,9 @@
       "CONTRACTS_VERIFIED"
     ],
     "strategyTypeId": "lp",
-    "buyTokenUrl": "https://spooky.fi/#/swap?outputCurrency=0x7547d05dFf1DA6B4A2eBB3f0833aFE3C62ABD9a1",
+    "buyTokenUrl": "https://https://equalizer.exchange/swap",
     "network": "fantom",
-    "createdAt": 64307256
+    "createdAt": 64338593
   },
   {
     "id": "equalizer-ring-usdc",
@@ -64,7 +64,7 @@
       "CONTRACTS_VERIFIED"
     ],
     "strategyTypeId": "lp",
-    "buyTokenUrl": "https://spooky.fi/#/swap?outputCurrency=0x7547d05dFf1DA6B4A2eBB3f0833aFE3C62ABD9a1",
+    "buyTokenUrl": "https://https://equalizer.exchange/swap",
     "network": "fantom",
     "createdAt": 64355225
   }
