@@ -44,28 +44,5 @@
     "buyTokenUrl": "https://https://equalizer.exchange/swap",
     "network": "fantom",
     "createdAt": 64338593
-  },
-  {
-    "id": "equalizer-ring-usdc",
-    "name": "RING-USDC",
-    "token": "RING-USDC (EQUALIZER)",
-    "tokenAddress": "0x8418bab773abf430907b39b7db6a6f8318a9210e",
-    "tokenDecimals": 18,
-    "earnedToken": "XpE-RING-USDC",
-    "earnedTokenAddress": "0x217F53c5509C97f619DE13Dcd8F75Ae482a17b17",
-    "earnContractAddress": "0x217F53c5509C97f619DE13Dcd8F75Ae482a17b17",
-    "oracle": "lps",
-    "oracleId": "equalizer-ring-usdc",
-    "status": "active",
-    "platformId": "Equalizer",
-    "assets": ["RING, USDC"],
-    "risks": [
-      "COMPLEXITY_LOW",
-      "CONTRACTS_VERIFIED"
-    ],
-    "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
-    "network": "fantom",
-    "createdAt": 64355225
   }
 ]
