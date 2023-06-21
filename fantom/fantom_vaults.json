@@ -251,28 +251,5 @@
     "buyTokenUrl": "https://https://equalizer.exchange/swap",
     "network": "fantom",
     "createdAt": 64425000
-  },
- {
-    "id": "equalizer-equal-shrap",
-    "name": "EQUAL-SHRAP",
-    "token": "EQUAL-SHRAP (EQUALIZER)",
-    "tokenAddress": "0xdabb8f8a9e4d9119bb137ca80f4caa0fa38d73d0",
-    "tokenDecimals": 18,
-    "earnedToken": "XpE-EQUAL-SHRAP",
-    "earnedTokenAddress": "0xC1918C4fa4e582c3A5aB6dF56301bb3007E01A7f",
-    "earnContractAddress": "0xC1918C4fa4e582c3A5aB6dF56301bb3007E01A7f",
-    "oracle": "lps",
-    "oracleId": "equalizer-equal-shrap",
-    "status": "active",
-    "platformId": "Equalizer",
-    "assets": ["EQUAL, SHRAP"],
-    "risks": [
-      "COMPLEXITY_LOW",
-      "CONTRACTS_VERIFIED"
-    ],
-    "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
-    "network": "fantom",
-    "createdAt": 64426050
   }
 ]
