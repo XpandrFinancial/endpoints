@@ -140,7 +140,7 @@
    {
     "id": "equalizer-equal-pequal",
     "name": "EQUAL-pEQUAL",
-    "token": "EQUAL-pEQUAL" (EQUALIZER)",
+    "token": "EQUAL-pEQUAL (EQUALIZER)",
     "tokenAddress": "0x2526F175A088974Cd5a64C4B56Fd4AFab24A50E4",
     "tokenDecimals": 18,
     "earnedToken": "XpE-ELITE-ETH",
