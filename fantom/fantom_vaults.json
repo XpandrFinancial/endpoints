@@ -12,13 +12,13 @@
     "oracleId": "equalizer-chill-wftm",
     "status": "active",
     "platformId": "Equalizer",
-    "assets": ["CHILL, FTM"],
+    "assets": ["CHILL", "FTM"],
     "risks": [
       "COMPLEXITY_LOW",
       "CONTRACTS_VERIFIED"
     ],
     "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
+    "buyTokenUrl": "https://equalizer.exchange/swap",
     "network": "fantom",
     "createdAt": 73693091
   },
@@ -35,13 +35,13 @@
     "oracleId": "equalizer-equal-wftm",
     "status": "active",
     "platformId": "Equalizer",
-    "assets": ["EQUAL, FTM"],
+    "assets": ["EQUAL", "FTM"],
     "risks": [
       "COMPLEXITY_LOW",
       "CONTRACTS_VERIFIED"
     ],
     "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
+    "buyTokenUrl": "https://equalizer.exchange/swap",
     "network": "fantom",
     "createdAt": 73689546
   },
@@ -58,13 +58,13 @@
     "oracleId": "equalizer-bay-wftm",
     "status": "active",
     "platformId": "Equalizer",
-    "assets": ["BAY, FTM"],
+    "assets": ["BAY", "FTM"],
     "risks": [
       "COMPLEXITY_LOW",
       "CONTRACTS_VERIFIED"
     ],
     "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
+    "buyTokenUrl": "https://equalizer.exchange/swap",
     "network": "fantom",
     "createdAt": 73691060
   },
@@ -81,13 +81,13 @@
     "oracleId": "equalizer-fghst-equal",
     "status": "active",
     "platformId": "Equalizer",
-    "assets": ["FGHST, EQUAL"],
+    "assets": ["FGHST", "EQUAL"],
     "risks": [
       "COMPLEXITY_LOW",
       "CONTRACTS_VERIFIED"
     ],
     "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
+    "buyTokenUrl": "https://equalizer.exchange/swap",
     "network": "fantom",
     "createdAt": 73693663
   },
@@ -104,13 +104,13 @@
     "oracleId": "equalizer-kirby-wftm",
     "status": "active",
     "platformId": "Equalizer",
-    "assets": ["KIRBY, FTM"],
+    "assets": ["KIRBY", "FTM"],
     "risks": [
       "COMPLEXITY_LOW",
       "CONTRACTS_VERIFIED"
     ],
     "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
+    "buyTokenUrl": "https://equalizer.exchange/swap",
     "network": "fantom",
     "createdAt": 73691285
   },
@@ -127,13 +127,13 @@
     "oracleId": "equalizer-fsonic-wftm",
     "status": "active",
     "platformId": "Equalizer",
-    "assets": ["FSONIC, FTM"],
+    "assets": ["FSONIC", "FTM"],
     "risks": [
       "COMPLEXITY_LOW",
       "CONTRACTS_VERIFIED"
     ],
     "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
+    "buyTokenUrl": "https://equalizer.exchange/swap",
     "network": "fantom",
     "createdAt": 73691171
   },
@@ -150,13 +150,13 @@
     "oracleId": "equalizer-equal-pequal",
     "status": "active",
     "platformId": "Equalizer",
-    "assets": ["EQUAL, PEQUAL"],
+    "assets": ["EQUAL", "PEQUAL"],
     "risks": [
       "COMPLEXITY_LOW",
       "CONTRACTS_VERIFIED"
     ],
     "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
+    "buyTokenUrl": "https://equalizer.exchange/swap",
     "network": "fantom",
     "createdAt": 73653291
   }
