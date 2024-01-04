@@ -71,7 +71,7 @@
   {
     "id": "equalizer-fghst-equal",
     "name": "fGHST-EQUAL",
-    "token": "FGHST-EQUAL (EQUALIZER)",
+    "token": "fGHST-EQUAL (EQUALIZER)",
     "tokenAddress": "0x3f7be927d13dc45D7A6DEbaD5E6d96f4c35DaD90",
     "tokenDecimals": 18,
     "earnedToken": "XpE-fGHST-EQUAL",
@@ -143,7 +143,7 @@
     "token": "EQUAL-pEQUAL (EQUALIZER)",
     "tokenAddress": "0x2526F175A088974Cd5a64C4B56Fd4AFab24A50E4",
     "tokenDecimals": 18,
-    "earnedToken": "XpE-ELITE-ETH",
+    "earnedToken": "XpE-EQUAL-pEQUAL",
     "earnedTokenAddress": "0x8B4922dAB4bf2c2a4be37bdc61b41DBa43780c42",
     "earnContractAddress": "0x8B4922dAB4bf2c2a4be37bdc61b41DBa43780c42",
     "oracle": "lps",
@@ -159,5 +159,5 @@
     "buyTokenUrl": "https://https://equalizer.exchange/swap",
     "network": "fantom",
     "createdAt": 73653291
-  },
+  }
 ]
