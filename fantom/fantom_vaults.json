@@ -46,29 +46,6 @@
     "createdAt": 73653291
   },
   {
-    "id": "equalizer-usdc-wftm",
-    "name": "USDC-FTM",
-    "token": "USDC-FTM (EQUALIZER)",
-    "tokenAddress": "0x7547d05dFf1DA6B4A2eBB3f0833aFE3C62ABD9a1",
-    "tokenDecimals": 18,
-    "earnedToken": "XpE-USDC-FTM",
-    "earnedTokenAddress": "0xb65D9aC2c8B92696FCff52AC9ddfe8e2658237B9",
-    "earnContractAddress": "0xb65D9aC2c8B92696FCff52AC9ddfe8e2658237B9",
-    "oracle": "lps",
-    "oracleId": "equalizer-usdc-wftm",
-    "status": "active",
-    "platformId": "Equalizer",
-    "assets": ["USDC, FTM"],
-    "risks": [
-      "COMPLEXITY_LOW",
-      "CONTRACTS_VERIFIED"
-    ],
-    "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
-    "network": "fantom",
-    "createdAt": 64338593
-  },
-  {
     "id": "equalizer-chill-wftm",
     "name": "CHILL-FTM",
     "token": "CHILL-FTM (EQUALIZER)",
@@ -160,7 +137,7 @@
     "network": "fantom",
     "createdAt": 73691060
   },
-    {
+  {
     "id": "equalizer-fsonic-wftm",
     "name": "FSONIC-FTM",
     "token": "FSONIC-FTM (EQUALIZER)",
@@ -183,165 +160,5 @@
     "network": "fantom",
     "createdAt": 73691171
   },
-  {
-    "id": "equalizer-deus-wftm",
-    "name": "DEUS-FTM",
-    "token": "DEUS-FTM (EQUALIZER)",
-    "tokenAddress": "0xffe9c27f0a12dabe5c5bd46d144a5c0140725566",
-    "tokenDecimals": 18,
-    "earnedToken": "XpE-DEUS-FTM",
-    "earnedTokenAddress": "0x5AC74BfC48B53b40F6cd830dBD3B8Fd0BEE696F8",
-    "earnContractAddress": "0x5AC74BfC48B53b40F6cd830dBD3B8Fd0BEE696F8",
-    "oracle": "lps",
-    "oracleId": "equalizer-deus-wftm",
-    "status": "active",
-    "platformId": "Equalizer",
-    "assets": ["DEUS, FTM"],
-    "risks": [
-      "COMPLEXITY_LOW",
-      "CONTRACTS_VERIFIED"
-    ],
-    "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
-    "network": "fantom",
-    "createdAt": 64421987
-  },
-  {
-    "id": "equalizer-axlusdc-wftm",
-    "name": "axlUSDC-FTM",
-    "token": "axlUSDC-FTM (EQUALIZER)",
-    "tokenAddress": "0x77CfeE25570b291b0882F68Bac770Abf512c2b5C",
-    "tokenDecimals": 18,
-    "earnedToken": "XpE-axlUSDC-FTM",
-    "earnedTokenAddress": "0x2eC72E5b997fD909316D469ff32b3B77F1665bF8",
-    "earnContractAddress": "0x2eC72E5b997fD909316D469ff32b3B77F1665bF8",
-    "oracle": "lps",
-    "oracleId": "equalizer-axlusdc-wftm",
-    "status": "active",
-    "platformId": "Equalizer",
-    "assets": ["axlUSDC, FTM"],
-    "risks": [
-      "COMPLEXITY_LOW",
-      "CONTRACTS_VERIFIED"
-    ],
-    "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
-    "network": "fantom",
-    "createdAt": 64423094
-  },
-  {
-    "id": "equalizer-fghst-wftm",
-    "name": "fGHST-FTM",
-    "token": "fGHST-FTM (EQUALIZER)",
-    "tokenAddress": "0x69b4d3893882ee4068301470efDA30F14a56AeD0",
-    "tokenDecimals": 18,
-    "earnedToken": "XpE-fGHST-FTM",
-    "earnedTokenAddress": "0x8b48Cb28847f35a83DB5757632AfE2e4a1102b02",
-    "earnContractAddress": "0x8b48Cb28847f35a83DB5757632AfE2e4a1102b02",
-    "oracle": "lps",
-    "oracleId": "equalizer-fghst-wftm",
-    "status": "active",
-    "platformId": "Equalizer",
-    "assets": ["fGHST, FTM"],
-    "risks": [
-      "COMPLEXITY_LOW",
-      "CONTRACTS_VERIFIED"
-    ],
-    "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
-    "network": "fantom",
-    "createdAt": 64423915
-  },
- {
-    "id": "equalizer-lqdr-wftm",
-    "name": "LQDR-FTM",
-    "token": "LQDR-FTM (EQUALIZER)",
-    "tokenAddress": "0x0272a69b9f7d12489e0e0c756cd645e538a00dde",
-    "tokenDecimals": 18,
-    "earnedToken": "XpE-LQDR-FTM",
-    "earnedTokenAddress": "0x7DBC43E78A2b440B398513181E69A78ba2FBd98F",
-    "earnContractAddress": "0x7DBC43E78A2b440B398513181E69A78ba2FBd98F",
-    "oracle": "lps",
-    "oracleId": "equalizer-lqdr-wftm",
-    "status": "active",
-    "platformId": "Equalizer",
-    "assets": ["LQDR, FTM"],
-    "risks": [
-      "COMPLEXITY_LOW",
-      "CONTRACTS_VERIFIED"
-    ],
-    "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
-    "network": "fantom",
-    "createdAt": 64425000
-  },
-   {
-    "id": "equalizer-slm-wftm",
-    "name": "SLM-FTM",
-    "token": "SLM-FTM (EQUALIZER)",
-    "tokenAddress": "0xB9adC8193F48943A7F4F50921F414991473f73c5",
-    "tokenDecimals": 18,
-    "earnedToken": "XpE-SLM-FTM",
-    "earnedTokenAddress": "0xDDa8125528e432b580C4783974e13039008912B6",
-    "earnContractAddress": "0xDDa8125528e432b580C4783974e13039008912B6",
-    "oracle": "lps",
-    "oracleId": "equalizer-slm-wftm",
-    "status": "active",
-    "platformId": "Equalizer",
-    "assets": ["SLM, FTM"],
-    "risks": [
-      "COMPLEXITY_LOW",
-      "CONTRACTS_VERIFIED"
-    ],
-    "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
-    "network": "fantom",
-    "createdAt": 64513941
-  },
-   {
-    "id": "equalizer-elite-eth",
-    "name": "ELITE-ETH",
-    "token": "ELITE-ETH (EQUALIZER)",
-    "tokenAddress": "0x8D2C044817F500404CD528B7A0cfbD4679f699bB",
-    "tokenDecimals": 18,
-    "earnedToken": "XpE-ELITE-ETH",
-    "earnedTokenAddress": "0x34AF4c3Ff17a2DBf4709f9ebCAB51b445Fc0CA79",
-    "earnContractAddress": "0x34AF4c3Ff17a2DBf4709f9ebCAB51b445Fc0CA79",
-    "oracle": "lps",
-    "oracleId": "equalizer-elite-eth",
-    "status": "active",
-    "platformId": "Equalizer",
-    "assets": ["ELITE, ETH"],
-    "risks": [
-      "COMPLEXITY_LOW",
-      "CONTRACTS_VERIFIED"
-    ],
-    "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
-    "network": "fantom",
-    "createdAt": 64516183
-  },
-   {
-    "id": "equalizer-skull-wftm",
-    "name": "SKULL-FTM",
-    "token": "SKULL-FTM (EQUALIZER)",
-    "tokenAddress": "0x8daFfE224Af377aA1B8B0d9B8b419606306D10BF",
-    "tokenDecimals": 18,
-    "earnedToken": "XpE-SKULL-FTM",
-    "earnedTokenAddress": "0x1c06975A8BEd99F0D9052b417666b23bC5cAadfb",
-    "earnContractAddress": "0x1c06975A8BEd99F0D9052b417666b23bC5cAadfb",
-    "oracle": "lps",
-    "oracleId": "equalizer-skull-wftm",
-    "status": "active",
-    "platformId": "Equalizer",
-    "assets": ["SKULL, FTM"],
-    "risks": [
-      "COMPLEXITY_LOW",
-      "CONTRACTS_VERIFIED"
-    ],
-    "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
-    "network": "fantom",
-    "createdAt": 64519082
-  }
+ 
 ]
