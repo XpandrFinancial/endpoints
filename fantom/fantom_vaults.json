@@ -35,7 +35,7 @@
     "oracleId": "equalizer-equal-pequal",
     "status": "active",
     "platformId": "Equalizer",
-    "assets": ["EQUAL, PEQUAL"],
+    "assets": ["EQUAL, EQUAL"],
     "risks": [
       "COMPLEXITY_LOW",
       "CONTRACTS_VERIFIED"
