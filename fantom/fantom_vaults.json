@@ -12,7 +12,7 @@
     "oracleId": "equalizer-kirby-wftm",
     "status": "active",
     "platformId": "Equalizer",
-    "assets": ["KIRBY, FTM"],
+    "assets": ["KIRBY, WFTM"],
     "risks": [
       "COMPLEXITY_LOW",
       "CONTRACTS_VERIFIED"
