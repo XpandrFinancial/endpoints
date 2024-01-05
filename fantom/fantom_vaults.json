@@ -138,7 +138,7 @@
     "createdAt": 73693663
   },
   {
-    "id": "equalizer-bay-wftm",
+    "id": "equalizer-bay-ftm",
     "name": "BAY-FTM",
     "token": "BAY-FTM (EQUALIZER)",
     "tokenAddress": "0xA169AF5669A1d5b0a57260918CB035E152Aa3269",
@@ -147,7 +147,7 @@
     "earnedTokenAddress": "0x6dc4D340508df4D13AD391E2A7EC2B14EBFB4aF2",
     "earnContractAddress": "0x6dc4D340508df4D13AD391E2A7EC2B14EBFB4aF2",
     "oracle": "lps",
-    "oracleId": "equalizer-bay-wftm",
+    "oracleId": "equalizer-bay-ftm",
     "status": "active",
     "platformId": "Equalizer",
     "assets": ["BAY, FTM"],
