@@ -23,6 +23,29 @@
     "createdAt": 73693663
   },
   {
+    "id": "equalizer-equal-pequal",
+    "name": "EQUAL-pEQUAL",
+    "token": "EQUAL-pEQUAL (EQUALIZER)",
+    "tokenAddress": "0x2526F175A088974Cd5a64C4B56Fd4AFab24A50E4",
+    "tokenDecimals": 18,
+    "earnedToken": "XpE-EQUAL-pEQUAL",
+    "earnedTokenAddress": "0x8B4922dAB4bf2c2a4be37bdc61b41DBa43780c42",
+    "earnContractAddress": "0x8B4922dAB4bf2c2a4be37bdc61b41DBa43780c42",
+    "oracle": "lps",
+    "oracleId": "equalizer-equal-pequal",
+    "status": "active",
+    "platformId": "Equalizer",
+    "assets": ["KIRBY, PEQUAL"],
+    "risks": [
+      "COMPLEXITY_LOW",
+      "CONTRACTS_VERIFIED"
+    ],
+    "strategyTypeId": "lp",
+    "buyTokenUrl": "https://https://equalizer.exchange/swap",
+    "network": "fantom",
+    "createdAt": 73653291
+  },
+  {
     "id": "equalizer-usdc-wftm",
     "name": "USDC-FTM",
     "token": "USDC-FTM (EQUALIZER)",
