@@ -92,19 +92,19 @@
     "createdAt": 73689546
   },
   {
-    "id": "equalizer-fbomb-wftm",
-    "name": "fBOMB-FTM",
-    "token": "fBOMB-FTM (EQUALIZER)",
-    "tokenAddress": "0x5EB26b5206C2948E115deD46462D22bDf5d0547f",
+    "id": "equalizer-fghst-equal",
+    "name": "fGHST-EQUAL",
+    "token": "fGHST-EQUAL (EQUALIZER)",
+    "tokenAddress": "0x3f7be927d13dc45D7A6DEbaD5E6d96f4c35DaD90",
     "tokenDecimals": 18,
-    "earnedToken": "XpE-fBOMB-FTM",
-    "earnedTokenAddress": "0x688Dc82dFD0BeF58Ec4a60143FFBBc3698677c7F",
-    "earnContractAddress": "0x688Dc82dFD0BeF58Ec4a60143FFBBc3698677c7F",
+    "earnedToken": "XpE-fGHST-FTM",
+    "earnedTokenAddress": "0x96afbA8aeaFFaC15eE860C4f7eE2cBF2b9FeDcCC",
+    "earnContractAddress": "0x96afbA8aeaFFaC15eE860C4f7eE2cBF2b9FeDcCC",
     "oracle": "lps",
-    "oracleId": "equalizer-fbomb-wftm",
+    "oracleId": "equalizer-fghst-wftm",
     "status": "active",
     "platformId": "Equalizer",
-    "assets": ["fBOMB, FTM"],
+    "assets": ["FGHST, FTM"],
     "risks": [
       "COMPLEXITY_LOW",
       "CONTRACTS_VERIFIED"
@@ -112,7 +112,7 @@
     "strategyTypeId": "lp",
     "buyTokenUrl": "https://https://equalizer.exchange/swap",
     "network": "fantom",
-    "createdAt": 64420295
+    "createdAt": 73693663
   },
   {
     "id": "equalizer-bay-wftm",
