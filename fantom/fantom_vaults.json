@@ -1,11 +1,11 @@
 [
   {
     "id": "equalizer-kirby-wftm",
-    "name": "KIRBY-FTM",
-    "token": "KIRBY-FTM (EQUALIZER)",
+    "name": "KIRBY-WFTM",
+    "token": "KIRBY-WFTM (EQUALIZER)",
     "tokenAddress": "0xaba325fe915ab7e3d58ca3917972ae7952f31987",
     "tokenDecimals": 18,
-    "earnedToken": "XpE-KIRBY-FTM",
+    "earnedToken": "XpE-KIRBY-WFTM",
     "earnedTokenAddress": "0xCD1dA19973e77f107f58f6Ce9F98476e88b9B36c",
     "earnContractAddress": "0xCD1dA19973e77f107f58f6Ce9F98476e88b9B36c",
     "oracle": "lps",
