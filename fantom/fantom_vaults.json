@@ -97,14 +97,14 @@
     "token": "fGHST-EQUAL (EQUALIZER)",
     "tokenAddress": "0x3f7be927d13dc45D7A6DEbaD5E6d96f4c35DaD90",
     "tokenDecimals": 18,
-    "earnedToken": "XpE-fGHST-FTM",
+    "earnedToken": "XpE-fGHST-EQUAL",
     "earnedTokenAddress": "0x96afbA8aeaFFaC15eE860C4f7eE2cBF2b9FeDcCC",
     "earnContractAddress": "0x96afbA8aeaFFaC15eE860C4f7eE2cBF2b9FeDcCC",
     "oracle": "lps",
-    "oracleId": "equalizer-fghst-wftm",
+    "oracleId": "equalizer-fghst-equal",
     "status": "active",
     "platformId": "Equalizer",
-    "assets": ["FGHST, FTM"],
+    "assets": ["FGHST, EQUAL"],
     "risks": [
       "COMPLEXITY_LOW",
       "CONTRACTS_VERIFIED"
