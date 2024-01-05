@@ -137,6 +137,29 @@
     "network": "fantom",
     "createdAt": 64421385
   },
+    {
+    "id": "equalizer-fsonic-wftm",
+    "name": "FSONIC-FTM",
+    "token": "FSONIC-FTM (EQUALIZER)",
+    "tokenAddress": "0x767520fA98e1E24b3326fD42B24c9DCFCe8BcE14",
+    "tokenDecimals": 18,
+    "earnedToken": "XpE-FSONIC-FTM",
+    "earnedTokenAddress": "0xE06a2DF0C7a8c1d71ce351A659d1436E81175889",
+    "earnContractAddress": "0xE06a2DF0C7a8c1d71ce351A659d1436E81175889",
+    "oracle": "lps",
+    "oracleId": "equalizer-fsonic-wftm",
+    "status": "active",
+    "platformId": "Equalizer",
+    "assets": ["FSONIC, FTM"],
+    "risks": [
+      "COMPLEXITY_LOW",
+      "CONTRACTS_VERIFIED"
+    ],
+    "strategyTypeId": "lp",
+    "buyTokenUrl": "https://https://equalizer.exchange/swap",
+    "network": "fantom",
+    "createdAt": 73691171
+  },
   {
     "id": "equalizer-deus-wftm",
     "name": "DEUS-FTM",
