@@ -112,7 +112,7 @@
     "strategyTypeId": "lp",
     "buyTokenUrl": "https://https://equalizer.exchange/swap",
     "network": "fantom",
-    "createdAt": 73689546s
+    "createdAt": 73689546
   },
   {
     "id": "equalizer-fbomb-wftm",
