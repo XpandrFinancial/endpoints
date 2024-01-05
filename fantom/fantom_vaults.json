@@ -1,18 +1,18 @@
 [
   {
-    "id": "equalizer-wftm-mpx",
-    "name": "MPX-FTM",
-    "token": "MPX-FTM (EQUALIZER)",
-    "tokenAddress": "0xdE26e98d868FE02fFfb6DF26E638995124d3Ca13",
+    "id": "equalizer-wftm-kirby",
+    "name": "KIRBY-FTM",
+    "token": "KIRBY-FTM (EQUALIZER)",
+    "tokenAddress": "0x3f7be927d13dc45D7A6DEbaD5E6d96f4c35DaD90",
     "tokenDecimals": 18,
     "earnedToken": "XpE-MPX-FTM",
-    "earnedTokenAddress": "0x10DFa237a26A1Fa12884A459BAC0454b652055D4",
-    "earnContractAddress": "0x10DFa237a26A1Fa12884A459BAC0454b652055D4",
+    "earnedTokenAddress": "0x96afbA8aeaFFaC15eE860C4f7eE2cBF2b9FeDcCC",
+    "earnContractAddress": "0x96afbA8aeaFFaC15eE860C4f7eE2cBF2b9FeDcCC",
     "oracle": "lps",
-    "oracleId": "equalizer-wftm-mpx",
+    "oracleId": "equalizer-wftm-kirby",
     "status": "active",
     "platformId": "Equalizer",
-    "assets": ["MPX, FTM"],
+    "assets": ["FTM, KIRBY"],
     "risks": [
       "COMPLEXITY_LOW",
       "CONTRACTS_VERIFIED"
@@ -20,7 +20,7 @@
     "strategyTypeId": "lp",
     "buyTokenUrl": "https://https://equalizer.exchange/swap",
     "network": "fantom",
-    "createdAt": 64307256
+    "createdAt": 73693663
   },
   {
     "id": "equalizer-usdc-wftm",
