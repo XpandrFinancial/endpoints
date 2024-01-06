@@ -29,8 +29,8 @@
     "tokenAddress": "0x2526F175A088974Cd5a64C4B56Fd4AFab24A50E4",
     "tokenDecimals": 18,
     "earnedToken": "XpE-EQUAL-pEQUAL",
-    "earnedTokenAddress": "0x8B4922dAB4bf2c2a4be37bdc61b41DBa43780c42",
-    "earnContractAddress": "0x8B4922dAB4bf2c2a4be37bdc61b41DBa43780c42",
+    "earnedTokenAddress": "0x1d79a0aeB260BE6C1CB74b6AdFf872FBA89A033D",
+    "earnContractAddress": "0x1d79a0aeB260BE6C1CB74b6AdFf872FBA89A033D",
     "oracle": "lps",
     "oracleId": "equalizer-equal-pequal",
     "status": "active",
@@ -43,7 +43,7 @@
     "strategyTypeId": "lp",
     "buyTokenUrl": "https://https://equalizer.exchange/swap",
     "network": "fantom",
-    "createdAt": 73653291
+    "createdAt": 73767897
   },
   {
     "id": "equalizer-usdc-wftm",
