@@ -184,19 +184,19 @@
     "createdAt": 73691171
   },
   {
-    "id": "equalizer-deus-wftm",
-    "name": "DEUS-FTM",
-    "token": "DEUS-FTM (EQUALIZER)",
-    "tokenAddress": "0xffe9c27f0a12dabe5c5bd46d144a5c0140725566",
+    "id": "equalizer-bay-equal",
+    "name": "BAY-EQUAL",
+    "token": "BAY-EQUAL (EQUALIZER)",
+    "tokenAddress": "0x00584303b82feB66dB9f5b1537140A1b3f70e3A7",
     "tokenDecimals": 18,
-    "earnedToken": "XpE-DEUS-FTM",
-    "earnedTokenAddress": "0x5AC74BfC48B53b40F6cd830dBD3B8Fd0BEE696F8",
-    "earnContractAddress": "0x5AC74BfC48B53b40F6cd830dBD3B8Fd0BEE696F8",
+    "earnedToken": "XpE-BAY-EQUAL",
+    "earnedTokenAddress": "0xA3B67358005791861e723a8F65fA421aD66b5a8D",
+    "earnContractAddress": "0xA3B67358005791861e723a8F65fA421aD66b5a8D",
     "oracle": "lps",
-    "oracleId": "equalizer-deus-wftm",
+    "oracleId": "equalizer-bay-equal",
     "status": "active",
     "platformId": "Equalizer",
-    "assets": ["DEUS, FTM"],
+    "assets": ["BAY, EQUAL"],
     "risks": [
       "COMPLEXITY_LOW",
       "CONTRACTS_VERIFIED"
@@ -204,7 +204,7 @@
     "strategyTypeId": "lp",
     "buyTokenUrl": "https://https://equalizer.exchange/swap",
     "network": "fantom",
-    "createdAt": 64421987
+    "createdAt": 73811387
   },
   {
     "id": "equalizer-axlusdc-wftm",
@@ -253,19 +253,19 @@
     "createdAt": 64423915
   },
  {
-    "id": "equalizer-lqdr-wftm",
-    "name": "LQDR-FTM",
-    "token": "LQDR-FTM (EQUALIZER)",
-    "tokenAddress": "0x0272a69b9f7d12489e0e0c756cd645e538a00dde",
+    "id": "equalizer-pequal-wftm",
+    "name": "pEQUAL-FTM",
+    "token": "pEQUAL-FTM (EQUALIZER)",
+    "tokenAddress": "0xECAa3330741562DEC4f6892628186404fba66B68",
     "tokenDecimals": 18,
-    "earnedToken": "XpE-LQDR-FTM",
-    "earnedTokenAddress": "0x7DBC43E78A2b440B398513181E69A78ba2FBd98F",
-    "earnContractAddress": "0x7DBC43E78A2b440B398513181E69A78ba2FBd98F",
+    "earnedToken": "XpE-pEQUAL-FTM",
+    "earnedTokenAddress": "0xC5B1AC1A42b41E0702810b60E5E6030ae673Ae3E",
+    "earnContractAddress": "0xC5B1AC1A42b41E0702810b60E5E6030ae673Ae3E",
     "oracle": "lps",
-    "oracleId": "equalizer-lqdr-wftm",
+    "oracleId": "equalizer-pequal-wftm",
     "status": "active",
     "platformId": "Equalizer",
-    "assets": ["LQDR, FTM"],
+    "assets": ["PEQUAL, FTM"],
     "risks": [
       "COMPLEXITY_LOW",
       "CONTRACTS_VERIFIED"
@@ -273,7 +273,7 @@
     "strategyTypeId": "lp",
     "buyTokenUrl": "https://https://equalizer.exchange/swap",
     "network": "fantom",
-    "createdAt": 64425000
+    "createdAt": 73817733
   },
    {
     "id": "equalizer-slm-wftm",
