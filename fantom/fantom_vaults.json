@@ -265,7 +265,7 @@
     "oracleId": "equalizer-pequal-wftm",
     "status": "active",
     "platformId": "Equalizer",
-    "assets": ["PEQUAL, FTM"],
+    "assets": ["EQUAL, FTM"],
     "risks": [
       "COMPLEXITY_LOW",
       "CONTRACTS_VERIFIED"
