@@ -213,8 +213,8 @@
     "tokenAddress": "0x77CfeE25570b291b0882F68Bac770Abf512c2b5C",
     "tokenDecimals": 18,
     "earnedToken": "XpE-axlUSDC-FTM",
-    "earnedTokenAddress": "0x2eC72E5b997fD909316D469ff32b3B77F1665bF8",
-    "earnContractAddress": "0x2eC72E5b997fD909316D469ff32b3B77F1665bF8",
+    "earnedTokenAddress": "0x035b9501aCEB722a2F5bbCc777C00f405B80A3EA",
+    "earnContractAddress": "0x035b9501aCEB722a2F5bbCc777C00f405B80A3EA",
     "oracle": "lps",
     "oracleId": "equalizer-axlusdc-wftm",
     "status": "active",
@@ -227,22 +227,22 @@
     "strategyTypeId": "lp",
     "buyTokenUrl": "https://https://equalizer.exchange/swap",
     "network": "fantom",
-    "createdAt": 64423094
+    "createdAt": 73910978
   },
   {
-    "id": "equalizer-fghst-wftm",
-    "name": "fGHST-FTM",
-    "token": "fGHST-FTM (EQUALIZER)",
-    "tokenAddress": "0x69b4d3893882ee4068301470efDA30F14a56AeD0",
+    "id": "equalizer-tombplus-wftm",
+    "name": "TOMB+-FTM",
+    "token": "TOMB+-FTM (EQUALIZER)",
+    "tokenAddress": "0xeCad5e6f290504EbDa51Ce4D63634A8f6651974D",
     "tokenDecimals": 18,
-    "earnedToken": "XpE-fGHST-FTM",
-    "earnedTokenAddress": "0x8b48Cb28847f35a83DB5757632AfE2e4a1102b02",
-    "earnContractAddress": "0x8b48Cb28847f35a83DB5757632AfE2e4a1102b02",
+    "earnedToken": "XpE-TOMB+-FTM",
+    "earnedTokenAddress": "0xaE65Ec52e76e46e25018fEd264D30480e52Deb18",
+    "earnContractAddress": "0xaE65Ec52e76e46e25018fEd264D30480e52Deb18",
     "oracle": "lps",
-    "oracleId": "equalizer-fghst-wftm",
+    "oracleId": "equalizer-tombplus-wftm",
     "status": "active",
     "platformId": "Equalizer",
-    "assets": ["fGHST, FTM"],
+    "assets": ["TOMBPLUS, FTM"],
     "risks": [
       "COMPLEXITY_LOW",
       "CONTRACTS_VERIFIED"
@@ -250,7 +250,7 @@
     "strategyTypeId": "lp",
     "buyTokenUrl": "https://https://equalizer.exchange/swap",
     "network": "fantom",
-    "createdAt": 64423915
+    "createdAt": 73880834
   },
  {
     "id": "equalizer-pequal-wftm",
