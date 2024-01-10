@@ -297,51 +297,5 @@
     "buyTokenUrl": "https://https://equalizer.exchange/swap",
     "network": "fantom",
     "createdAt": 74008100
-  },
-   {
-    "id": "equalizer-elite-eth",
-    "name": "ELITE-ETH",
-    "token": "ELITE-ETH (EQUALIZER)",
-    "tokenAddress": "0x8D2C044817F500404CD528B7A0cfbD4679f699bB",
-    "tokenDecimals": 18,
-    "earnedToken": "XpE-ELITE-ETH",
-    "earnedTokenAddress": "0x34AF4c3Ff17a2DBf4709f9ebCAB51b445Fc0CA79",
-    "earnContractAddress": "0x34AF4c3Ff17a2DBf4709f9ebCAB51b445Fc0CA79",
-    "oracle": "lps",
-    "oracleId": "equalizer-elite-eth",
-    "status": "active",
-    "platformId": "Equalizer",
-    "assets": ["ELITE, ETH"],
-    "risks": [
-      "COMPLEXITY_LOW",
-      "CONTRACTS_VERIFIED"
-    ],
-    "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
-    "network": "fantom",
-    "createdAt": 64516183
-  },
-   {
-    "id": "equalizer-skull-wftm",
-    "name": "SKULL-FTM",
-    "token": "SKULL-FTM (EQUALIZER)",
-    "tokenAddress": "0x8daFfE224Af377aA1B8B0d9B8b419606306D10BF",
-    "tokenDecimals": 18,
-    "earnedToken": "XpE-SKULL-FTM",
-    "earnedTokenAddress": "0x1c06975A8BEd99F0D9052b417666b23bC5cAadfb",
-    "earnContractAddress": "0x1c06975A8BEd99F0D9052b417666b23bC5cAadfb",
-    "oracle": "lps",
-    "oracleId": "equalizer-skull-wftm",
-    "status": "active",
-    "platformId": "Equalizer",
-    "assets": ["SKULL, FTM"],
-    "risks": [
-      "COMPLEXITY_LOW",
-      "CONTRACTS_VERIFIED"
-    ],
-    "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
-    "network": "fantom",
-    "createdAt": 64519082
   }
 ]
