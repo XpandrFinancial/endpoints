@@ -276,19 +276,19 @@
     "createdAt": 73817733
   },
    {
-    "id": "equalizer-slm-wftm",
-    "name": "SLM-FTM",
-    "token": "SLM-FTM (EQUALIZER)",
-    "tokenAddress": "0xB9adC8193F48943A7F4F50921F414991473f73c5",
+    "id": "equalizer-fknuckles-wftm",
+    "name": "FKNUCKLES-FTM",
+    "token": "FKNUCLES-FTM (EQUALIZER)",
+    "tokenAddress": "0xD9Cb02ad1D3fD66a33172A8BFfF7Fcee774F7c0F",
     "tokenDecimals": 18,
-    "earnedToken": "XpE-SLM-FTM",
-    "earnedTokenAddress": "0xDDa8125528e432b580C4783974e13039008912B6",
-    "earnContractAddress": "0xDDa8125528e432b580C4783974e13039008912B6",
+    "earnedToken": "XpE-FKNUCKLES-FTM",
+    "earnedTokenAddress": "0xb3aB1fF89d0811843D9e636e03641eB972458d8d",
+    "earnContractAddress": "0xb3aB1fF89d0811843D9e636e03641eB972458d8d",
     "oracle": "lps",
-    "oracleId": "equalizer-slm-wftm",
+    "oracleId": "equalizer-fknuckles-wftm",
     "status": "active",
     "platformId": "Equalizer",
-    "assets": ["SLM, FTM"],
+    "assets": ["FKNUCKLES, FTM"],
     "risks": [
       "COMPLEXITY_LOW",
       "CONTRACTS_VERIFIED"
@@ -296,7 +296,7 @@
     "strategyTypeId": "lp",
     "buyTokenUrl": "https://https://equalizer.exchange/swap",
     "network": "fantom",
-    "createdAt": 64513941
+    "createdAt": 74008100
   },
    {
     "id": "equalizer-elite-eth",
