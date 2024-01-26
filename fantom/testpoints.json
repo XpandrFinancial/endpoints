@@ -298,7 +298,7 @@
     "network": "fantom",
     "createdAt": 74008100
   },
-     {
+  {
     "id": "equalizer-skull-wftm",
     "name": "SKULL-FTM",
     "token": "SKULL-FTM (EQUALIZER)",
@@ -320,5 +320,28 @@
     "buyTokenUrl": "https://https://equalizer.exchange/swap",
     "network": "fantom",
     "createdAt": 74008100
+  },
+  {
+    "id": "equalizer-gmftm-wftm",
+    "name": "GMFTM-FTM",
+    "token": "GMFTM-FTM (EQUALIZER)",
+    "tokenAddress": "0xb6bc2682F196c1Fd32BD6b0DE4Af7696A3bb83F9",
+    "tokenDecimals": 18,
+    "earnedToken": "XpE-GMFTM-FTM",
+    "earnedTokenAddress": "0x4E7fAAd617e348247a38eEe08346d27dEeD83DAb",
+    "earnContractAddress": "0x4E7fAAd617e348247a38eEe08346d27dEeD83DAb",
+    "oracle": "lps",
+    "oracleId": "equalizer-gmftm-wftm",
+    "status": "active",
+    "platformId": "Equalizer",
+    "assets": ["GMFTM, FTM"],
+    "risks": [
+      "COMPLEXITY_LOW",
+      "CONTRACTS_VERIFIED"
+    ],
+    "strategyTypeId": "lp",
+    "buyTokenUrl": "https://https://equalizer.exchange/swap",
+    "network": "fantom",
+    "createdAt": 74809029
   }
 ]
