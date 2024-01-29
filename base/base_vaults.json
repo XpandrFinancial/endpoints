@@ -1,0 +1,25 @@
+[
+  {
+    "id": "scale-scale-pscale",
+    "name": "SCALE-pSCALE",
+    "token": "SCALE-pSCALE (SCALE)",
+    "tokenAddress": "0x2dCE41906834E09bB28D5756F21c6EC32642f23C",
+    "tokenDecimals": 18,
+    "earnedToken": "XpS-SCALE-pSCALE",
+    "earnedTokenAddress": "0x726D97d627Fd393751d0b92E7B8A0D9B4B548c83",
+    "earnContractAddress": "0x726D97d627Fd393751d0b92E7B8A0D9B4B548c83",
+    "oracle": "lps",
+    "oracleId": "scale-scale-pscale",
+    "status": "active",
+    "platformId": "Scale",
+    "assets": ["SCALE, SCALE"],
+    "risks": [
+      "COMPLEXITY_LOW",
+      "CONTRACTS_VERIFIED"
+    ],
+    "strategyTypeId": "lp",
+    "buyTokenUrl": "https://base.equalizer.exchange/swap",
+    "network": "base",
+    "createdAt": 9867297
+  }
+]
