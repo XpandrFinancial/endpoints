@@ -299,29 +299,6 @@
     "createdAt": 74008100
   },
   {
-    "id": "equalizer-skull-wftm",
-    "name": "SKULL-FTM",
-    "token": "SKULL-FTM (EQUALIZER)",
-    "tokenAddress": "0x8daFfE224Af377aA1B8B0d9B8b419606306D10BF",
-    "tokenDecimals": 18,
-    "earnedToken": "XpE-SKULL-FTM",
-    "earnedTokenAddress": "0xf3Be680cFAa10eDca47cce298F99913555fAC0eE",
-    "earnContractAddress": "0xf3Be680cFAa10eDca47cce298F99913555fAC0eE",
-    "oracle": "lps",
-    "oracleId": "equalizer-skull-wftm",
-    "status": "active",
-    "platformId": "Equalizer",
-    "assets": ["SKULL, FTM"],
-    "risks": [
-      "COMPLEXITY_LOW",
-      "CONTRACTS_VERIFIED"
-    ],
-    "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
-    "network": "fantom",
-    "createdAt": 74008100
-  },
-  {
     "id": "equalizer-gmftm-wftm",
     "name": "GMFTM-FTM",
     "token": "GMFTM-FTM (EQUALIZER)",
@@ -343,5 +320,51 @@
     "buyTokenUrl": "https://https://equalizer.exchange/swap",
     "network": "fantom",
     "createdAt": 74809029
+  },
+    {
+    "id": "wigoswap-wigo-wftm",
+    "name": "WIGO-FTM",
+    "token": "WIGO-FTM (WIGOSWAP)",
+    "tokenAddress": "0xB66E5c89EbA830B31B3dDcc468dD50b3256737c5",
+    "tokenDecimals": 18,
+    "earnedToken": "XpW-WIGO-FTM",
+    "earnedTokenAddress": "0x74aE189aE6Fe56Aa2BfCB46cCec8FdF82F8fd574",
+    "earnContractAddress": "0x74aE189aE6Fe56Aa2BfCB46cCec8FdF82F8fd574",
+    "oracle": "lps",
+    "oracleId": "wigoswap-wigo-wftm",
+    "status": "active",
+    "platformId": "Wigoswap",
+    "assets": ["WIGO, FTM"],
+    "risks": [
+      "COMPLEXITY_LOW",
+      "CONTRACTS_VERIFIED"
+    ],
+    "strategyTypeId": "lp",
+    "buyTokenUrl": "'https://wigoswap.io/swap",
+    "network": "fantom",
+    "createdAt": 74938876
+  },
+  {
+    "id": "wigoswap-lzusdc-wftm",
+    "name": "lzUSDC-FTM",
+    "token": "lzUSDC-FTM (WIGOSWAP)",
+    "tokenAddress": "0x8dD580271D823CBDC4a1C6153f69Dad594C521Fd",
+    "tokenDecimals": 18,
+    "earnedToken": "XpW-lzUSDC-FTM",
+    "earnedTokenAddress": "0xb9ba950554B3D5f88bA45Aea277d800466B820a2",
+    "earnContractAddress": "0xb9ba950554B3D5f88bA45Aea277d800466B820a2",
+    "oracle": "lps",
+    "oracleId": "wigoswap-lzusdc-wftm",
+    "status": "active",
+    "platformId": "Wigoswap",
+    "assets": ["LZUSDC, FTM"],
+    "risks": [
+      "COMPLEXITY_LOW",
+      "CONTRACTS_VERIFIED"
+    ],
+    "strategyTypeId": "lp",
+    "buyTokenUrl": "'https://wigoswap.io/swap",
+    "network": "fantom",
+    "createdAt": 74939370
   }
 ]
