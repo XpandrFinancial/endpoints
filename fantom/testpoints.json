@@ -356,7 +356,7 @@
     "oracle": "lps",
     "oracleId": "wigoswap-wigo-wftm",
     "status": "active",
-    "platformId": "WigoSwap",
+    "platformId": "Wigoswap",
     "assets": ["WIGO, FTM"],
     "risks": [
       "COMPLEXITY_LOW",
@@ -379,7 +379,7 @@
     "oracle": "lps",
     "oracleId": "wigoswap-lzusdc-wftm",
     "status": "active",
-    "platformId": "WigoSwap",
+    "platformId": "Wigoswap",
     "assets": ["LZUSDC, FTM"],
     "risks": [
       "COMPLEXITY_LOW",
