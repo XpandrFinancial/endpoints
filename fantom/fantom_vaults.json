@@ -366,28 +366,5 @@
     "buyTokenUrl": "'https://wigoswap.io/swap",
     "network": "fantom",
     "createdAt": 75255503
-  },
-  {
-    "id": "wigoswap-mim-wftm",
-    "name": "MIM-FTM",
-    "token": "MIM-FTM (WIGOSWAP)",
-    "tokenAddress": "0x92A164d177552d483E3abBc6fA250bE86be481D7",
-    "tokenDecimals": 18,
-    "earnedToken": "XpW-MIM-FTM",
-    "earnedTokenAddress": "0x3B32d1a03b77a4B6a19A966a6E50FA93eF547217",
-    "earnContractAddress": "0x3B32d1a03b77a4B6a19A966a6E50FA93eF547217",
-    "oracle": "lps",
-    "oracleId": "wigoswap-mim-wftm",
-    "status": "active",
-    "platformId": "Wigoswap",
-    "assets": ["MIM, FTM"],
-    "risks": [
-      "COMPLEXITY_LOW",
-      "CONTRACTS_VERIFIED"
-    ],
-    "strategyTypeId": "lp",
-    "buyTokenUrl": "'https://wigoswap.io/swap",
-    "network": "fantom",
-    "createdAt": 75259875
   }
 ]
