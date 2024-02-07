@@ -366,5 +366,28 @@
     "buyTokenUrl": "'https://wigoswap.io/swap",
     "network": "fantom",
     "createdAt": 74939370
+  },
+  {
+    "id": "wigoswap-axlusdc-wftm",
+    "name": "axlUSDC-FTM",
+    "token": "axlUSDC-FTM (WIGOSWAP)",
+    "tokenAddress": "0x084F933B6401a72291246B5B5eD46218a68773e6",
+    "tokenDecimals": 18,
+    "earnedToken": "XpW-axlUSDC-FTM",
+    "earnedTokenAddress": "0xB2cBc3D1da5Fc9D77D2e9a53DB47CbEFf0aB50B5",
+    "earnContractAddress": "0xB2cBc3D1da5Fc9D77D2e9a53DB47CbEFf0aB50B5",
+    "oracle": "lps",
+    "oracleId": "wigoswap-axlusdc-wftm",
+    "status": "active",
+    "platformId": "Wigoswap",
+    "assets": ["USDC, FTM"],
+    "risks": [
+      "COMPLEXITY_LOW",
+      "CONTRACTS_VERIFIED"
+    ],
+    "strategyTypeId": "lp",
+    "buyTokenUrl": "'https://wigoswap.io/swap",
+    "network": "fantom",
+    "createdAt": 75255503
   }
 ]
