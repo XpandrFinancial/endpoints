@@ -46,29 +46,6 @@
     "createdAt": 73767897
   },
   {
-    "id": "equalizer-usdc-wftm",
-    "name": "USDC-FTM",
-    "token": "USDC-FTM (EQUALIZER)",
-    "tokenAddress": "0x7547d05dFf1DA6B4A2eBB3f0833aFE3C62ABD9a1",
-    "tokenDecimals": 18,
-    "earnedToken": "XpE-USDC-FTM",
-    "earnedTokenAddress": "0xb65D9aC2c8B92696FCff52AC9ddfe8e2658237B9",
-    "earnContractAddress": "0xb65D9aC2c8B92696FCff52AC9ddfe8e2658237B9",
-    "oracle": "lps",
-    "oracleId": "equalizer-usdc-wftm",
-    "status": "active",
-    "platformId": "Equalizer",
-    "assets": ["USDC, FTM"],
-    "risks": [
-      "COMPLEXITY_LOW",
-      "CONTRACTS_VERIFIED"
-    ],
-    "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
-    "network": "fantom",
-    "createdAt": 64338593
-  },
-  {
     "id": "equalizer-chill-wftm",
     "name": "CHILL-FTM",
     "token": "CHILL-FTM (EQUALIZER)",
