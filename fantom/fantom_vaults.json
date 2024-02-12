@@ -298,7 +298,30 @@
     "network": "fantom",
     "createdAt": 74809029
   },
-    {
+   {
+    "id": "equalizer-goat-wftm",
+    "name": "GOAT-FTM",
+    "token": "GOAT-FTM (EQUALIZER)",
+    "tokenAddress": "0x0312Ac51857ba0a5b696C18beE5978FddED70904",
+    "tokenDecimals": 18,
+    "earnedToken": "XpE-GOAT-FTM",
+    "earnedTokenAddress": "0x18dE1466c8c1d12669A8c87Fe46d73bb180A2299",
+    "earnContractAddress": "0x18dE1466c8c1d12669A8c87Fe46d73bb180A2299",
+    "oracle": "lps",
+    "oracleId": "equalizer-goat-wftm",
+    "status": "active",
+    "platformId": "Equalizer",
+    "assets": ["GOAT, FTM"],
+    "risks": [
+      "COMPLEXITY_LOW",
+      "CONTRACTS_VERIFIED"
+    ],
+    "strategyTypeId": "lp",
+    "buyTokenUrl": "https://https://equalizer.exchange/swap",
+    "network": "fantom",
+    "createdAt": 74809029
+  },
+  {
     "id": "wigoswap-wigo-wftm",
     "name": "WIGO-FTM",
     "token": "WIGO-FTM (WIGOSWAP)",
