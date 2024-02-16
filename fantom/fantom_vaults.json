@@ -322,6 +322,29 @@
     "createdAt": 75541634
   },
   {
+    "id": "equalizer-ftails-wftm",
+    "name": "fTAILS-FTM",
+    "token": "fTAILS-FTM (EQUALIZER)",
+    "tokenAddress": "0x9102CcB844d699a523d05C6E063A5E6d12eF62EF",
+    "tokenDecimals": 18,
+    "earnedToken": "XpE-fTAILS-FTM",
+    "earnedTokenAddress": "0x7aD7c62d599787Ea3a7F5509dCA0d6Ee2deA502b",
+    "earnContractAddress": "0x7aD7c62d599787Ea3a7F5509dCA0d6Ee2deA502b",
+    "oracle": "lps",
+    "oracleId": "equalizer-ftails-wftm",
+    "status": "active",
+    "platformId": "Equalizer",
+    "assets": ["FTAILS, FTM"],
+    "risks": [
+      "COMPLEXITY_LOW",
+      "CONTRACTS_VERIFIED"
+    ],
+    "strategyTypeId": "lp",
+    "buyTokenUrl": "https://https://equalizer.exchange/swap",
+    "network": "fantom",
+    "createdAt": 75789084
+  },
+  {
     "id": "wigoswap-wigo-wftm",
     "name": "WIGO-FTM",
     "token": "WIGO-FTM (WIGOSWAP)",
