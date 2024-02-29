@@ -22,6 +22,29 @@
     "network": "fantom",
     "createdAt": 73693663
   },
+    {
+    "id": "equalizer-fbux-wftm",
+    "name": "fBUX-FTM",
+    "token": "fBUX-FTM (EQUALIZER)",
+    "tokenAddress": "0xA45571a6B0861d3E4B26E0925ec2C8d9Cf44dC3A",
+    "tokenDecimals": 18,
+    "earnedToken": "XpE-fBUX-FTM",
+    "earnedTokenAddress": "0x7A20cB8A01D7B27B98c37947Cc0F9c3C329e074A",
+    "earnContractAddress": "0x7A20cB8A01D7B27B98c37947Cc0F9c3C329e074A",
+    "oracle": "lps",
+    "oracleId": "equalizer-fbux-wftm",
+    "status": "active",
+    "platformId": "Equalizer",
+    "assets": ["FBUX, FTM"],
+    "risks": [
+      "COMPLEXITY_LOW",
+      "CONTRACTS_VERIFIED"
+    ],
+    "strategyTypeId": "lp",
+    "buyTokenUrl": "https://https://equalizer.exchange/swap",
+    "network": "fantom",
+    "createdAt": 76448603
+  },
   {
     "id": "equalizer-equal-pequal",
     "name": "EQUAL-pEQUAL",
