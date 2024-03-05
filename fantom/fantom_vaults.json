@@ -92,6 +92,29 @@
     "createdAt": 73693091
   },
   {
+    "id": "equalizer-love-wftm",
+    "name": "LOVE-FTM",
+    "token": "LOVE-FTM (EQUALIZER)",
+    "tokenAddress": "0x6d3E93beE1123daA00B8cE3914BB521dd1B718d",
+    "tokenDecimals": 18,
+    "earnedToken": "XpE-LOVE-FTM",
+    "earnedTokenAddress": "0xAC5502A794237F0E86c934A8D152152F218f5F90",
+    "earnContractAddress": "0xAC5502A794237F0E86c934A8D152152F218f5F90",
+    "oracle": "lps",
+    "oracleId": "equalizer-love-wftm",
+    "status": "active",
+    "platformId": "Equalizer",
+    "assets": ["LOVE, FTM"],
+    "risks": [
+      "COMPLEXITY_LOW",
+      "CONTRACTS_VERIFIED"
+    ],
+    "strategyTypeId": "lp",
+    "buyTokenUrl": "https://https://equalizer.exchange/swap",
+    "network": "fantom",
+    "createdAt": 76815506
+  },
+  {
     "id": "equalizer-equal-wftm",
     "name": "EQUAL-FTM",
     "token": "EQUAL-FTM (EQUALIZER)",
