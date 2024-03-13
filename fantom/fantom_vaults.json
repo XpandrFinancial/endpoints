@@ -183,7 +183,30 @@
     "network": "fantom",
     "createdAt": 73691060
   },
-    {
+  {
+    "id": "equalizer-thc-wftm",
+    "name": "THC-FTM",
+    "token": "THC-FTM (EQUALIZER)",
+    "tokenAddress": "0x88477652F12a564e7811AcA7108472d3ef54C5E1",
+    "tokenDecimals": 18,
+    "earnedToken": "XpE-THC-FTM",
+    "earnedTokenAddress": "0xE0577a868C079ccb8675BEacE1C66e405D08584a",
+    "earnContractAddress": "0xE0577a868C079ccb8675BEacE1C66e405D08584a",
+    "oracle": "lps",
+    "oracleId": "equalizer-thc-wftm",
+    "status": "active",
+    "platformId": "Equalizer",
+    "assets": ["THC", "WFTM"],
+    "risks": [
+      "COMPLEXITY_LOW",
+      "CONTRACTS_VERIFIED"
+    ],
+    "strategyTypeId": "lp",
+    "buyTokenUrl": "https://https://equalizer.exchange/swap",
+    "network": "fantom",
+    "createdAt": 77278116
+  },
+  {
     "id": "equalizer-fsonic-wftm",
     "name": "FSONIC-FTM",
     "token": "FSONIC-FTM (EQUALIZER)",
