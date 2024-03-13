@@ -481,5 +481,28 @@
     "buyTokenUrl": "'https://wigoswap.io/swap",
     "network": "fantom",
     "createdAt": 75259875
+  },
+  {
+    "id": "fmoney-fbux-lzusdc",
+    "name": "fBUX-lzUSDC",
+    "token": "fBUX-lzUSDC 80/20 LP (fMoney)",
+    "tokenAddress": "0x2DdCD6916Ee7cCC6300cB0fe2919A341bE0EE8bb",
+    "tokenDecimals": 18,
+    "earnedToken": "XpfM-fBUX-lzUSDC",
+    "earnedTokenAddress": "0x88d02D615641dB1D82f7E7a0c5419aa59D0c2ee4",
+    "earnContractAddress": "0x88d02D615641dB1D82f7E7a0c5419aa59D0c2ee4",
+    "oracle": "lps",
+    "oracleId": "fmoney-fbux-lzusdc",
+    "status": "active",
+    "platformId": "fMoney",
+    "assets": ["FBUX, LZUSDC"],
+    "risks": [
+      "COMPLEXITY_LOW",
+      "CONTRACTS_VERIFIED"
+    ],
+    "strategyTypeId": "lp",
+    "buyTokenUrl": "'https://beets.fi/pool/0x2ddcd6916ee7ccc6300cb0fe2919a341be0ee8bb0002000000000000000007eb",
+    "network": "fantom",
+    "createdAt": 77177390
   }
 ]
