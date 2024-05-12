@@ -506,26 +506,27 @@
     "createdAt": 75259875
   },
   {
-    "id": "fmoney-fbux-lzusdc",
-    "name": "fBUX-lzUSDC",
-    "token": "fBUX-lzUSDC 80/20 LP (fMoney)",
+    "id": "fmoney-fbux-usdc.e",
+    "name": "fBUX-USDC.e",
+    "token": "fBUX-USDC.e 80/20 LP (fMoney)",
     "tokenAddress": "0x2DdCD6916Ee7cCC6300cB0fe2919A341bE0EE8bb",
     "tokenDecimals": 18,
-    "earnedToken": "XpfM-fBUX-lzUSDC",
-    "earnedTokenAddress": "0x6Bc89b59c7d0cDBF383a5b093DA66bCb4dFbf6ee",
-    "earnContractAddress": "0x6Bc89b59c7d0cDBF383a5b093DA66bCb4dFbf6ee",
+    "earnedToken": "XpfM-fBUX-USDC.e",
+    "earnedTokenAddress": "0x24925A6D7d9e7ff528215f9D94a6A17d6E447895",
+    "earnContractAddress": "0x24925A6D7d9e7ff528215f9D94a6A17d6E447895",
     "oracle": "lps",
-    "oracleId": "fmoney-fbux-lzusdc",
+    "oracleId": "fmoney-fbux-usdc.e",
     "status": "active",
     "platformId": "fMoney",
-    "assets": ["FBUX, LZUSDC"],
+    "assets": ["FBUX, USDCe"],
     "risks": [
       "COMPLEXITY_LOW",
       "CONTRACTS_VERIFIED"
     ],
     "strategyTypeId": "lp",
-    "buyTokenUrl": "'https://beets.fi/pool/0x2ddcd6916ee7ccc6300cb0fe2919a341be0ee8bb0002000000000000000007eb",
+    "buyTokenUrl": "'https://beets.fi/pool/0x9426d9077620efaae688d3c3b398fa814406ce4a000200000000000000000833",
     "network": "fantom",
-    "createdAt": 77177390
+    "createdAt": 80833058
+
   }
 ]
