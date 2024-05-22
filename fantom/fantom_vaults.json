@@ -369,7 +369,7 @@
   },
   {
     "id": "beets-fmoney-fbux-usdce",
-    "name": "Fmoney fBUX-USDCe",
+    "name": "fMoney FBUX-USDCe",
     "type": "standard",
     "token": "XpF-FBUX-USDCe",
     "tokenAddress": "0x9426d9077620efaae688d3c3b398fa814406ce4a",
@@ -382,8 +382,8 @@
     "oracleId": "beets-fmoney-fbux-usdce",
     "status": "active",
     "createdAt": 81400151,
-    "platformId": "beethovenx",
-    "assets": ["FBUX", "USDCe"],
+    "platformId": "fmoney",
+    "assets": ["FBUX, USDCe"],
     "risks": [
       "COMPLEXITY_LOW",
       "BATTLE_TESTED",
