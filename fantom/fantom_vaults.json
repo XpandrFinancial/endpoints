@@ -369,9 +369,9 @@
   },
   {
     "id": "fmoney-fbux-usdce",
-    "name": "fMoney FBUX-USDCe",
+    "name": "fMoney FBUX USDCe",
     "type": "standard",
-    "token": "XpF-FBUX-USDCe",
+    "token": "fMoney FBUX USDCe",
     "tokenAddress": "0x9426d9077620efaae688d3c3b398fa814406ce4a",
     "tokenDecimals": 18,
     "tokenProviderId": "fmoney",
