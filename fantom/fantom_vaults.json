@@ -368,7 +368,7 @@
     "createdAt": 75259875
   },
   {
-    "id": "beets-fmoney-fbux-usdce",
+    "id": "fmoney-fbux-usdce",
     "name": "fMoney FBUX-USDCe",
     "type": "standard",
     "token": "XpF-FBUX-USDCe",
@@ -379,7 +379,7 @@
     "earnedTokenAddress": "0x1cDB3bC1c5aA4353Eb1d87F7830Ce8e5dB5A09Ef",
     "earnContractAddress": "0x1cDB3bC1c5aA4353Eb1d87F7830Ce8e5dB5A09Ef",
     "oracle": "lps",
-    "oracleId": "beets-fmoney-fbux-usdce",
+    "oracleId": "fmoney-fbux-usdce",
     "status": "active",
     "createdAt": 81400151,
     "platformId": "fmoney",
