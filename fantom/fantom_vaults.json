@@ -299,19 +299,19 @@
     "createdAt": 74938876
   },
   {
-    "id": "wigoswap-lzusdc-wftm",
-    "name": "lzUSDC-FTM",
-    "token": "lzUSDC-FTM (WIGOSWAP)",
-    "tokenAddress": "0x8dD580271D823CBDC4a1C6153f69Dad594C521Fd",
+    "id": "wigoswap-usdce-wftm",
+    "name": "USDC.e-FTM",
+    "token": "USDC.e-FTM (WIGOSWAP)",
+    "tokenAddress": "0x2D0Ed226891E256d94F1071E2F94FBcDC9060E14",
     "tokenDecimals": 18,
-    "earnedToken": "XpW-lzUSDC-FTM",
-    "earnedTokenAddress": "0xb9ba950554B3D5f88bA45Aea277d800466B820a2",
-    "earnContractAddress": "0xb9ba950554B3D5f88bA45Aea277d800466B820a2",
+    "earnedToken": "XpW-USDC.e-FTM",
+    "earnedTokenAddress": "0x5e63714C1bF7254203689fbb4f06d7605D0245f1",
+    "earnContractAddress": "0x5e63714C1bF7254203689fbb4f06d7605D0245f1",
     "oracle": "lps",
-    "oracleId": "wigoswap-lzusdc-wftm",
+    "oracleId": "wigoswap-usdce-wftm",
     "status": "active",
     "platformId": "Wigoswap",
-    "assets": ["LZUSDC, FTM"],
+    "assets": ["USDCe, FTM"],
     "risks": [
       "COMPLEXITY_LOW",
       "CONTRACTS_VERIFIED"
@@ -319,7 +319,7 @@
     "strategyTypeId": "lp",
     "buyTokenUrl": "'https://wigoswap.io/swap",
     "network": "fantom",
-    "createdAt": 74939370
+    "createdAt": 81406387
   },
   {
     "id": "wigoswap-axlusdc-wftm",
