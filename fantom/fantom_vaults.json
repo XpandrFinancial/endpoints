@@ -46,29 +46,6 @@
     "createdAt": 76496726
   },
   {
-    "id": "equalizer-equal-pequal",
-    "name": "EQUAL-pEQUAL",
-    "token": "EQUAL-pEQUAL (EQUALIZER)",
-    "tokenAddress": "0x2526F175A088974Cd5a64C4B56Fd4AFab24A50E4",
-    "tokenDecimals": 18,
-    "earnedToken": "XpE-EQUAL-pEQUAL",
-    "earnedTokenAddress": "0x1d79a0aeB260BE6C1CB74b6AdFf872FBA89A033D",
-    "earnContractAddress": "0x1d79a0aeB260BE6C1CB74b6AdFf872FBA89A033D",
-    "oracle": "lps",
-    "oracleId": "equalizer-equal-pequal",
-    "status": "active",
-    "platformId": "Equalizer",
-    "assets": ["EQUAL, EQUAL"],
-    "risks": [
-      "COMPLEXITY_LOW",
-      "CONTRACTS_VERIFIED"
-    ],
-    "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
-    "network": "fantom",
-    "createdAt": 73767897
-  },
-  {
     "id": "equalizer-chill-wftm",
     "name": "CHILL-FTM",
     "token": "CHILL-FTM (EQUALIZER)",
@@ -161,29 +138,6 @@
     "createdAt": 73693663
   },
   {
-    "id": "equalizer-bay-wftm",
-    "name": "BAY-FTM",
-    "token": "BAY-FTM (EQUALIZER)",
-    "tokenAddress": "0xA169AF5669A1d5b0a57260918CB035E152Aa3269",
-    "tokenDecimals": 18,
-    "earnedToken": "XpE-BAY-FTM",
-    "earnedTokenAddress": "0x6dc4D340508df4D13AD391E2A7EC2B14EBFB4aF2",
-    "earnContractAddress": "0x6dc4D340508df4D13AD391E2A7EC2B14EBFB4aF2",
-    "oracle": "lps",
-    "oracleId": "equalizer-bay-wftm",
-    "status": "active",
-    "platformId": "Equalizer",
-    "assets": ["BAY", "WFTM"],
-    "risks": [
-      "COMPLEXITY_LOW",
-      "CONTRACTS_VERIFIED"
-    ],
-    "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
-    "network": "fantom",
-    "createdAt": 73691060
-  },
-  {
     "id": "equalizer-thc-wftm",
     "name": "THC-FTM",
     "token": "THC-FTM (EQUALIZER)",
@@ -230,29 +184,6 @@
     "createdAt": 73691171
   },
   {
-    "id": "equalizer-bay-equal",
-    "name": "BAY-EQUAL",
-    "token": "BAY-EQUAL (EQUALIZER)",
-    "tokenAddress": "0x00584303b82feB66dB9f5b1537140A1b3f70e3A7",
-    "tokenDecimals": 18,
-    "earnedToken": "XpE-BAY-EQUAL",
-    "earnedTokenAddress": "0xA3B67358005791861e723a8F65fA421aD66b5a8D",
-    "earnContractAddress": "0xA3B67358005791861e723a8F65fA421aD66b5a8D",
-    "oracle": "lps",
-    "oracleId": "equalizer-bay-equal",
-    "status": "active",
-    "platformId": "Equalizer",
-    "assets": ["BAY, EQUAL"],
-    "risks": [
-      "COMPLEXITY_LOW",
-      "CONTRACTS_VERIFIED"
-    ],
-    "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
-    "network": "fantom",
-    "createdAt": 73811387
-  },
-  {
     "id": "equalizer-axlusdc-wftm",
     "name": "axlUSDC-FTM",
     "token": "axlUSDC-FTM (EQUALIZER)",
@@ -274,52 +205,6 @@
     "buyTokenUrl": "https://https://equalizer.exchange/swap",
     "network": "fantom",
     "createdAt": 73910978
-  },
-  {
-    "id": "equalizer-tombplus-wftm",
-    "name": "TOMB+-FTM",
-    "token": "TOMB+-FTM (EQUALIZER)",
-    "tokenAddress": "0xeCad5e6f290504EbDa51Ce4D63634A8f6651974D",
-    "tokenDecimals": 18,
-    "earnedToken": "XpE-TOMB+-FTM",
-    "earnedTokenAddress": "0xaE65Ec52e76e46e25018fEd264D30480e52Deb18",
-    "earnContractAddress": "0xaE65Ec52e76e46e25018fEd264D30480e52Deb18",
-    "oracle": "lps",
-    "oracleId": "equalizer-tombplus-wftm",
-    "status": "active",
-    "platformId": "Equalizer",
-    "assets": ["TOMBPLUS, FTM"],
-    "risks": [
-      "COMPLEXITY_LOW",
-      "CONTRACTS_VERIFIED"
-    ],
-    "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
-    "network": "fantom",
-    "createdAt": 73880834
-  },
- {
-    "id": "equalizer-pequal-wftm",
-    "name": "pEQUAL-FTM",
-    "token": "pEQUAL-FTM (EQUALIZER)",
-    "tokenAddress": "0xECAa3330741562DEC4f6892628186404fba66B68",
-    "tokenDecimals": 18,
-    "earnedToken": "XpE-pEQUAL-FTM",
-    "earnedTokenAddress": "0xC5B1AC1A42b41E0702810b60E5E6030ae673Ae3E",
-    "earnContractAddress": "0xC5B1AC1A42b41E0702810b60E5E6030ae673Ae3E",
-    "oracle": "lps",
-    "oracleId": "equalizer-pequal-wftm",
-    "status": "active",
-    "platformId": "Equalizer",
-    "assets": ["EQUAL, FTM"],
-    "risks": [
-      "COMPLEXITY_LOW",
-      "CONTRACTS_VERIFIED"
-    ],
-    "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
-    "network": "fantom",
-    "createdAt": 73817733
   },
    {
     "id": "equalizer-fknuckles-wftm",
@@ -389,29 +274,6 @@
     "buyTokenUrl": "https://https://equalizer.exchange/swap",
     "network": "fantom",
     "createdAt": 75541634
-  },
-  {
-    "id": "equalizer-ftails-wftm",
-    "name": "fTAILS-FTM",
-    "token": "fTAILS-FTM (EQUALIZER)",
-    "tokenAddress": "0x9102CcB844d699a523d05C6E063A5E6d12eF62EF",
-    "tokenDecimals": 18,
-    "earnedToken": "XpE-fTAILS-FTM",
-    "earnedTokenAddress": "0x7aD7c62d599787Ea3a7F5509dCA0d6Ee2deA502b",
-    "earnContractAddress": "0x7aD7c62d599787Ea3a7F5509dCA0d6Ee2deA502b",
-    "oracle": "lps",
-    "oracleId": "equalizer-ftails-wftm",
-    "status": "active",
-    "platformId": "Equalizer",
-    "assets": ["FTAILS, FTM"],
-    "risks": [
-      "COMPLEXITY_LOW",
-      "CONTRACTS_VERIFIED"
-    ],
-    "strategyTypeId": "lp",
-    "buyTokenUrl": "https://https://equalizer.exchange/swap",
-    "network": "fantom",
-    "createdAt": 75789084
   },
   {
     "id": "wigoswap-wigo-wftm",
@@ -509,11 +371,11 @@
     "id": "fmoney-fbux-usdc.e",
     "name": "fBUX-USDC.e",
     "token": "fBUX-USDC.e 80/20 LP (fMoney)",
-    "tokenAddress": "0x2DdCD6916Ee7cCC6300cB0fe2919A341bE0EE8bb",
+    "tokenAddress": "0x9426d9077620eFaAe688D3C3B398Fa814406cE4A",
     "tokenDecimals": 18,
     "earnedToken": "XpfM-fBUX-USDC.e",
-    "earnedTokenAddress": "0x24925A6D7d9e7ff528215f9D94a6A17d6E447895",
-    "earnContractAddress": "0x24925A6D7d9e7ff528215f9D94a6A17d6E447895",
+    "earnedTokenAddress": "0x1cDB3bC1c5aA4353Eb1d87F7830Ce8e5dB5A09Ef",
+    "earnContractAddress": "0x1cDB3bC1c5aA4353Eb1d87F7830Ce8e5dB5A09Ef",
     "oracle": "lps",
     "oracleId": "fmoney-fbux-usdc.e",
     "status": "active",
@@ -527,6 +389,5 @@
     "buyTokenUrl": "'https://beets.fi/pool/0x9426d9077620efaae688d3c3b398fa814406ce4a000200000000000000000833",
     "network": "fantom",
     "createdAt": 80833058
-
   }
 ]
