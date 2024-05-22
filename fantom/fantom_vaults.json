@@ -368,26 +368,30 @@
     "createdAt": 75259875
   },
   {
-    "id": "fmoney-fbux-usdce",
-    "name": "fBUX-USDCe",
-    "token": "fBUX-USDCe 80/20 LP (fMoney)",
-    "tokenAddress": "0x9426d9077620eFaAe688D3C3B398Fa814406cE4A",
+    "id": "beets-fmoney-fbux-usdce",
+    "name": "Trio of the Stables",
+    "type": "standard",
+    "token": "XpF-FBUX-USDCe",
+    "tokenAddress": "0x9426d9077620efaae688d3c3b398fa814406ce4a",
     "tokenDecimals": 18,
-    "earnedToken": "XpfM-fBUX-USDCe",
+    "tokenProviderId": "fmoney",
+    "earnedToken": "XpF-FBUX-USDCe",
     "earnedTokenAddress": "0x1cDB3bC1c5aA4353Eb1d87F7830Ce8e5dB5A09Ef",
     "earnContractAddress": "0x1cDB3bC1c5aA4353Eb1d87F7830Ce8e5dB5A09Ef",
     "oracle": "lps",
-    "oracleId": "fmoney-fbux-usdce",
+    "oracleId": "beets-fmoney-fbux-usdce",
     "status": "active",
-    "platformId": "fMoney",
-    "assets": ["FBUX, USDCe"],
+    "createdAt": 81400151,
+    "platformId": "beethovenx",
+    "assets": ["FBUX", "USDCe"],
     "risks": [
       "COMPLEXITY_LOW",
+      "BATTLE_TESTED",
       "CONTRACTS_VERIFIED"
     ],
     "strategyTypeId": "lp",
-    "buyTokenUrl": "'https://beets.fi/pool/0x9426d9077620efaae688d3c3b398fa814406ce4a000200000000000000000833",
-    "network": "fantom",
-    "createdAt": 80833058
-  }
+    "addLiquidityUrl": "https://beets.fi/pool/0x9426d9077620efaae688d3c3b398fa814406ce4a000200000000000000000833",
+    "removeLiquidityUrl": "https://beets.fi/pool0x9426d9077620efaae688d3c3b398fa814406ce4a000200000000000000000833",
+    "network": "fantom"
+  },
 ]
